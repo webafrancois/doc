@@ -8,4 +8,4 @@ Cette page n’existe pas encore, vous pouvez l’éditer en appuyant sur la tou
 ### Syntaxe
 Cette page utilise la syntaxe Markdown, veuillez vous référer à la documentation pour plus d’informations :
 
-http://daringfireball.net/projects/markdown/syntax
+* [Guide Markdown](/doc_markdown_guide)

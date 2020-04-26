@@ -8,4 +8,4 @@ This page is not created yet, you can edit it by pressing ```<ESC>``` on your ke
 
 This page use the markdown syntax, please refer to the documentation for further informations:
 
-http://daringfireball.net/projects/markdown/syntax
+* [Markdown documentation](/doc_markdown_guide)
